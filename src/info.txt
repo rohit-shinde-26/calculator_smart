@@ -1,0 +1,4 @@
+After git clone 
+
+Step 1:
+open folder and install all npm packages using commnd npm install
