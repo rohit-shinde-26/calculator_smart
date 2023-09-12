@@ -66,3 +66,6 @@ Technologies used in the project:
 *   HTML
 *   CSS
 *   JavaScript
+
+
+![main](https://github.com/rohit-shinde-26/calculator_smart/assets/100394511/9253824a-7767-4e95-bbaf-ababe4df11e2)
